@@ -1,0 +1,38 @@
+body{
+   width: 1200px;
+   margin: 0 auto; 
+   font-family: 'Roboto', sans-serif;
+   background-color: #4ecdc4;
+}
+h1{
+    text-align: center;
+    color: white;
+}
+h3{
+    text-align: center;
+}
+.ejercicioBloque{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #ffe66d;
+    padding: 10px;
+}
+.parrafoBloque{
+    width: 80%;
+}
+.codigoBloque{
+    color: white;
+    background-color: #355070;
+    width: 80%;
+    height: 290px;
+    border-radius: 8px;
+    padding: 5px;
+}
+h2{
+    text-align: center;
+    color: white;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    
+}
