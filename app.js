@@ -203,7 +203,7 @@ console.log(filterList([1, 2, 3, "x", "y", 10]));
 const repeat = (num, repeat) => {
     let newArray = [];
     for (let i = 1; i <= repeat; i++) {
-        newArray.push(13);
+        newArray.push(num);
     }
     return newArray;
 }
